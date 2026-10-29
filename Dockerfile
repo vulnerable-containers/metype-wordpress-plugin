@@ -1,4 +1,4 @@
-FROM wordpress:4.9.4-php5.6-apache
+FROM wordpress:7.1.4-php8.2-apache
 
 LABEL maintainer="devops@quintype.com"
 
